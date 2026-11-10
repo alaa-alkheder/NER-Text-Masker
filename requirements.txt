@@ -1,0 +1,14 @@
+# core (enough for the UI + regex masking)
+streamlit>=1.50
+python-docx>=1.1
+lxml>=4.9
+pandas>=2.0
+faker>=24.0
+
+# NER models (dslim/bert-base-NER, numind/NuNER_Zero, urchade/gliner_multi-v2.1)
+torch>=2.2
+transformers>=4.44
+gliner>=0.2.13
+
+# tests
+pytest>=8.0

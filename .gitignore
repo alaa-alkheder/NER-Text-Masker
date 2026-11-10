@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*_masked.docx
+*_masked.txt
+*_audit_SENSITIVE.csv
+.DS_Store
+*.tgz
+.streamlit/secrets.toml
+/Copy_of_NER_model_comparison*.ipynb
+/NER_evaluation_on_Kaggle_datasets_v2*.ipynb
